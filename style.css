@@ -39,7 +39,7 @@ body
     margin: auto;
 }
 
-section h1, footer h1, nav a
+section h2, footer h1, nav a
 {
     font-family: Dayrom, serif;
     font-weight: normal;
