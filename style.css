@@ -163,7 +163,7 @@ nav a:hover
     text-decoration: none;
 }
 
-.bouton_rouge img
+.bouton_rouge:hover
 {
-    border: 0;
+    color: blue;
 }
