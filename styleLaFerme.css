@@ -6,6 +6,11 @@ body
 	background: url(imagesFerme/trame.png);
 }
 
+h2
+{
+	font-weight: bold;
+}
+
 p span
 {
 	color: #A16413;
