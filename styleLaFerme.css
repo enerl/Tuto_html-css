@@ -1,0 +1,61 @@
+/* Eléments principaux de la page */
+
+body
+{
+	color: black;
+	background: url(imagesFerme/trame.png);
+}
+
+/* Header */
+
+header
+{
+	background: url(imagesFerme/oak_white.jpg);
+	text-align: center;
+	color: #ffffff;
+}
+
+header img
+{
+	width: 300px;
+    height: 150px;
+}
+
+/* Navigation */
+
+nav .navbar-fixed-top
+{
+	background: url(imagesFerme/oak_white.jpg);
+}
+
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+}
+
+nav li
+{
+    margin-right: 15px;
+}
+
+nav a
+{
+    font-size: 1.3em;
+    color: #ffffff;
+    padding-bottom: 3px;
+    text-decoration: none;
+}
+
+nav a:hover
+{
+    color: #760001;
+    border-bottom: 3px solid #760001;
+}
+
+hr
+{
+    border: 3px dotted #ffffff;
+    border-style: none none dotted; 
+    background-color: none;
+}
