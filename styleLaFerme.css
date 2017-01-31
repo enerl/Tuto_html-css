@@ -1,9 +1,14 @@
-/* Eléments principaux de la page */
+/* Eléments génraux de la page */
 
 body
 {
 	color: black;
 	background: url(imagesFerme/trame.png);
+}
+
+p span
+{
+	color: #A16413;
 }
 
 /* Header */
@@ -58,4 +63,13 @@ hr
     border: 3px dotted #ffffff;
     border-style: none none dotted; 
     background-color: none;
+}
+
+/* bloc-page-ferme */
+
+div #article
+{
+    list-style-type: none;
+    display: flex;
+    background-color: #fff;
 }
