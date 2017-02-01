@@ -3,7 +3,7 @@
 body
 {
 	color: black;
-	background: url(imagesFerme/trame.png);
+	background: url(imagesFerme/trame.png);				
 }
 
 h2
@@ -11,9 +11,20 @@ h2
 	font-weight: bold;
 }
 
-p span
+h4.block-title
 {
 	color: #A16413;
+	text-transform: uppercase;
+	background: url(imagesFerme/oak_white.jpg);
+}
+
+span .color
+{
+	color: #A16413;
+}
+span .bold
+{
+	font-weight: bold;
 }
 
 /* Header */
@@ -33,10 +44,12 @@ header img
 
 /* Navigation */
 
+/*
 nav .navbar-fixed-top
 {
 	background: url(imagesFerme/oak_white.jpg);
 }
+*/
 
 nav ul
 {
