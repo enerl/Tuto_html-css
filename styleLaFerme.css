@@ -36,6 +36,7 @@ header
 	background: url(imagesFerme/oak_white.jpg);
 	text-align: center;
 	color: #ffffff;
+  margin-bottom: 30px;
 }
 
 header img
@@ -89,7 +90,6 @@ hr
 
 div #article
 {
-	margin-top: 30px;
   list-style-type: none;
   display: flex;
   background-color: #fff;
@@ -100,4 +100,21 @@ div #banner
 {
 	top: -8px;
 	position: relative;
+}
+
+div #convention
+{
+  background-color: #fff;
+  border-left: 3px solid #908d89;
+  text-align: center;
+}
+
+div.convention-ligne
+{
+  padding-top: 20px;
+}
+
+span.convention-name
+{
+  color: #eaec27;
 }
