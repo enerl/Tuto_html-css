@@ -16,9 +16,10 @@ h4.block-title
 	color: #80500f;
 	text-transform: uppercase;
 	background: url(imagesFerme/oak_white.jpg);
-	margin-top: 30px;
   margin-bottom: 0px;
 	border-left: 3px solid #6b430d;
+  padding-bottom: 5px;
+  padding-top: 5px;
 }
 
 span.color
