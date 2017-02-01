@@ -17,6 +17,7 @@ h4.block-title
 	text-transform: uppercase;
 	background: url(imagesFerme/oak_white.jpg);
 	margin-top: 30px;
+  margin-bottom: 0px;
 	border-left: 3px solid #6b430d;
 }
 
@@ -102,11 +103,16 @@ div #banner
 	position: relative;
 }
 
-div #convention
+div.block-article
 {
   background-color: #fff;
   border-left: 3px solid #908d89;
   text-align: center;
+}
+
+div.espace
+{
+  padding-top: 30px;
 }
 
 div.convention-ligne
@@ -117,4 +123,9 @@ div.convention-ligne
 span.convention-name
 {
   color: #eaec27;
+}
+
+img.box-shadow
+{
+  width: 750px;
 }
