@@ -13,16 +13,18 @@ h2
 
 h4.block-title
 {
-	color: #A16413;
+	color: #80500f;
 	text-transform: uppercase;
 	background: url(imagesFerme/oak_white.jpg);
+	margin-top: 30px;
+	border-left: 3px solid #6b430d;
 }
 
-span .color
+span.color
 {
-	color: #A16413;
+	color: #80500f;
 }
-span .bold
+span.bold
 {
 	font-weight: bold;
 }
@@ -87,7 +89,15 @@ hr
 
 div #article
 {
+	margin-top: 30px;
   list-style-type: none;
   display: flex;
   background-color: #fff;
+  border-left: 3px solid #908d89;
+}
+
+div #banner
+{
+	top: -8px;
+	position: relative;
 }
