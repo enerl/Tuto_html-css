@@ -126,9 +126,20 @@ span.convention-name
   color: #eaec27;
 }
 
-img.box-shadow
+img.box-shadow-large
 {
-  width: 750px;
+  width: 652.5px;
+}
+
+img.box-shadow-small
+{
+  width: 262.5px;
+}
+
+div.picture-back
+{
+  background-image: url(imagesFerme/blendconf-link2.png);
+  background-size: 100% 100%;
 }
 
 #session
