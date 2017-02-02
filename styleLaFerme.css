@@ -168,3 +168,15 @@ p.button-text
   text-decoration: none;
   color: #000
 }
+
+/* Footer */
+footer h4
+{
+  text-transform: uppercase;
+  font-weight: bold;
+  margin-bottom: 0px;
+  padding-bottom: 5px;
+  padding-top: 5px;
+}
+
+
