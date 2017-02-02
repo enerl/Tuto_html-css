@@ -31,6 +31,11 @@ span.bold
 	font-weight: bold;
 }
 
+span.white
+{
+  color: #ffffff;
+}
+
 /* Header */
 
 header
@@ -111,11 +116,6 @@ div.block-article
   text-align: center;
 }
 
-div.espace
-{
-  padding-top: 30px;
-}
-
 div.convention-ligne
 {
   padding-top: 20px;
@@ -140,6 +140,20 @@ div.picture-back
 {
   background: url(imagesFerme/blendconf-link2.png) no-repeat;
   background-size: contain;
+}
+
+img.button-img
+{
+  width: 262.5px;
+  border-radius: 5px;
+}
+
+p.button-text
+{
+  background-color: #563F08;
+  border-left: 5px solid #FEF324;
+  text-align: right;
+  font-size: 20px;
 }
 
 #session
