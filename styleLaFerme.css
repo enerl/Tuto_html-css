@@ -36,6 +36,11 @@ span.white
   color: #ffffff;
 }
 
+div.separator
+{
+  border-top: 2px solid #575151;
+}
+
 /* Header */
 
 header
